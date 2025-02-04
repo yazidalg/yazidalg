@@ -6,6 +6,8 @@
 - 🧑‍🎓 I’m 6th Semester Student at Telkom University
 - 👷 I’m DevOps Engineer working for a Medical Startup in UK and Part Time at [Codehikes](https://codehikes.com/)
 - 🌱 My daily use technologies are: **Terraform, Kubernetes, Helm Chart**
+- 🥼 Part of Library Asistant Research at Motion Laboratory
+- 🤾‍♂️ Love to research something new and learn concept from basic to create a good pratical technique.
 
 ### 📚 Books
 Currently i love for read some books and learning about computer science, some books that i am still reading.
