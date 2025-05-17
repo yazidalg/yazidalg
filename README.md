@@ -8,6 +8,7 @@
 - 🌱 My daily use technologies are: **Terraform, Kubernetes, Helm Chart, Golang**
 - 🥼 Part of Library Asistant Research at Motion Laboratory
 - 🤾‍♂️ Love to research something new and learn concept from basic to create a good pratical technique.
+- ✨ Have directly held several cloud providers such as AWS, Google Cloud Platform, Digitalocean, On-Premise server profesionally.
 
 ### 📚 Books
 Currently i love for read some books and learning about computer science, some books that i am still reading.
