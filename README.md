@@ -10,14 +10,6 @@
 - 🤾‍♂️ Love to research something new and learn concept from basic to create a good pratical technique.
 - ✨ Have directly held several cloud providers such as AWS, Google Cloud Platform, Digitalocean, On-Premise server profesionally.
 
-### 📚 Books
-Currently i love for read some books and learning about computer science, some books that i am still reading.
-<div>
-  <img src="https://books.google.com/books/publisher/content/images/frontcover/BzNrEAAAQBAJ?w=300&usc=0" width="150" height="220" alt="Book Cover">
-  <img src="https://play.google.com/books/publisher/content/images/frontcover/6VKjDwAAQBAJ?w=300&usc=0" width="150" height="220" alt="Book Cover">
-  <img src="https://books.google.com/books/publisher/content/images/frontcover/SbM1EQAAQBAJ?w=300&usc=0" width="150" height="220" alt="Book Cover">
-</div>
-
 ### 🛠 Tech Stack
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![GCP](https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
