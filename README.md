@@ -3,8 +3,8 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=yazidalg&label=Profile%20Views&color=blue&style=flat)
 
 ### 🚀 About Me
-- 🧑‍🎓 I’m 6th Semester Student at Telkom University
-- 👷 I’m Ex-DevOps Engineer Part Time at [Codehikes](https://codehikes.com/) and Fulltime Platform Engineer at [Medroyale](https://www.medroyale.co.uk/) (UK Based).
+- 🧑‍🎓 I’m 7th Semester Student at Telkom University
+- 👷 I’m Part Time Platform Engineer at [Medroyale](https://www.medroyale.co.uk/) (UK Based) and Full Time Internship as DevSecOps Engineer at Packet Systems Indonesia.
 - 🌱 My daily use technologies are: **Terraform, Kubernetes, Helm Chart, Golang**
 - 🥼 Part of Library Asistant Research at Motion Laboratory
 - 🤾‍♂️ Love to research something new and learn concept from basic to create a good pratical technique.
