@@ -4,7 +4,7 @@
 
 ### 🚀 About Me
 - 🧑‍🎓 I’m 7th Semester Student at Telkom University
-- 👷 I’m Part Time Platform Engineer at [Medroyale](https://www.medroyale.co.uk/) (UK Based) and Full Time Internship as DevSecOps Engineer at Packet Systems Indonesia.
+- 👷 I’m Full Time Internship as DevSecOps Engineer at Packet Systems Indonesia and Part Time Platform Engineer at [Medroyale](https://www.medroyale.co.uk/) (UK Based Startup).
 - 🌱 My daily use technologies are: **Terraform, Kubernetes, Helm Chart, Golang**
 - 🥼 Part of Library Asistant Research at Motion Laboratory
 - 🤾‍♂️ Love to research something new and learn concept from basic to create a good pratical technique.
