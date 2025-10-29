@@ -24,12 +24,3 @@
 
 ### 📫 Connect with me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yazid-al-ghozali)
-
-### Google Cloud Skill Boost
-These are my badges when i take a part of Google Cloud Study Jam 2024.
-<div>
-  <img src="https://cdn.qwiklabs.com/oR8B%2FuNyP%2F0gEL3Ionlf%2BvpsraICZzGUgcgacmC%2FMdg%3D" width="206" height="137" alt="Book Cover">
-  <img src="https://cdn.qwiklabs.com/Hzsx8PD0xzkQJBXMQ3qCq9rQZy9rSXLsuDj3XBKDEdc%3D" width="206" height="137" alt="Book Cover">
-  <img src="https://cdn.qwiklabs.com/DPgtNy7JTn6W6JY5J6WJasFvUt7a2%2B58C5x4BOWSj7E%3D"width="206" height="137" alt="Book Cover">
-</div>
-See my Google Cloud Skill Boost Profile https://www.cloudskillsboost.google/public_profiles/1ffc4685-da1b-487b-b711-c1510a069091?qlcampaign=1p-EDUCR-ID-2024-JuaraGCP10-1-27
